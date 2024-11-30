@@ -1,1 +1,1 @@
-task2 и task4 требуют go get github.com/stretchr/testify/assert
+task2 и task4 используют github.com/stretchr/testify/assert
